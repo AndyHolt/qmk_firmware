@@ -1,5 +1,5 @@
 // Configure the global tapping term (default: 200ms)
-#define TAPPING_TERM 500
+#define TAPPING_TERM 200
 
 // Enable rapid switch from tap to hold, disabling double-tap-hold auto-repeat
 // Not sure if this is what I will want, but experiment for now
