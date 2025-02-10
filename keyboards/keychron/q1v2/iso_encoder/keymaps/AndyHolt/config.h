@@ -7,3 +7,8 @@
 
 // Override the Q1V2 default of having HOLD_ON_OTHER_KEY_PRESS enabled
 #undef HOLD_ON_OTHER_KEY_PRESS
+
+// Hold both left and right shift keys to enable caps word
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+// Use shift for lowercase letters, not cancellation, in caps word mode
+#define CAPS_WORD_INVERT_ON_SHIFT
